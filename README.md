@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/IagoBomfim/expenses-chart-component.git)
+- Live Site URL: [Live site](https://charming-duckanoo-dce491.netlify.app/)
 
 ## My process
 
